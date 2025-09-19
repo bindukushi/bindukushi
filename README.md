@@ -1,5 +1,6 @@
 
 Hi 👋, I'm Bindu A
+
 🌱 I’m currently learning Artificial Intelligence<br><br>💻 All of my projects are available on GitHub<br><br>💬 Ask me about web development, frontend, AI tools<br><br>📫 Reach out to me at abindu074@gmail.com
 
 
