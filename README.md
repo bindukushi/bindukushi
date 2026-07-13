@@ -85,7 +85,7 @@ I'm an **Information Science Engineering** student with hands-on experience in *
 
 ---
 
-## 🤖 AI / ML Expertise
+## 🤖 AI / ML 
 
 <div align="center">
 
@@ -272,16 +272,6 @@ Built a responsive web application with authentication as part of a hands-on dev
 
 ---
 
-## 🏅 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=bindukushi&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15"/>
-
-</div>
-
-<br/>
-
 ---
 
 ## 📈 Contribution Activity
@@ -295,16 +285,6 @@ Built a responsive web application with authentication as part of a hands-on dev
 <br/>
 
 ---
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/bindukushi/bindukushi/output/github-contribution-grid-snake-dark.svg"/>
-
-</div>
-
-<br/>
 
 ---
 
