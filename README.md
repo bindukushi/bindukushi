@@ -34,8 +34,6 @@
 
 name: Bindu A
 
-role: "Full Stack Developer | AI/ML Enthusiast"
-education: "B.E. Information Science Engineering, Kalpataru Institute of Technology"
 focus:
   - Building full-stack web applications with the MERN stack and Flask
   - Developing AI-powered tools for automation, fraud detection, and QA
