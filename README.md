@@ -32,7 +32,6 @@
 
 ## 🧠 About Me
 
-```yaml
 name: "Bindu A"
 role: "Full Stack Developer | AI/ML Enthusiast"
 education: "B.E. Information Science Engineering, Kalpataru Institute of Technology"
@@ -45,7 +44,6 @@ philosophy: >
   I build software that is secure, scalable, and genuinely useful —
   blending strong computer science fundamentals with a curiosity for
   applying AI to solve practical, real-world problems.
-```
 
 I'm an **Information Science Engineering** student with hands-on experience in **full-stack development** and **AI-powered applications**. Skilled in **Python, React.js, Node.js, MongoDB, and REST APIs**, I have a strong passion for building **scalable, secure software solutions** — from fraud detection systems to AI-driven automation platforms. I enjoy working across the full stack, from designing intuitive frontends to architecting robust backend systems and integrating machine learning models into production-ready applications.
 
