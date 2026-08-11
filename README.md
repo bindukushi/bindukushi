@@ -253,22 +253,6 @@ Built a responsive web application with authentication as part of a hands-on dev
 <br/>
 
 ---
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=bindukushi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=A78BFA&text_color=C9D1D9&count_private=true" width="49%"/>
-<img src="https://streak-stats.demolab.com?user=bindukushi&theme=tokyonight&hide_border=true&background=0D1117&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA" width="49%"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bindukushi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9" width="49%"/>
-
-</div>
-
-<br/>
-
----
-
 ---
 
 ## 📈 Contribution Activity
